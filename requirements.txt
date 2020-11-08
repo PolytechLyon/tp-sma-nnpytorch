@@ -1,0 +1,21 @@
+#docopt == 0.6.1             # Version Matching. Must be version 0.6.1
+#keyring >= 4.1.1            # Minimum version 4.1.1
+#coverage != 3.5             # Version Exclusion. Anything except version 3.5
+
+numpy
+pandas
+matplotlib
+torchviz
+jupyter
+scikit-learn
+scikit-image
+ipykernel
+
+#opencv-python
+#pillow
+#scipy
+#tqdm
+#seaborn
+#h5py
+#bokeh
+#pickleshare
