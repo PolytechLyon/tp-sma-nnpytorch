@@ -57,6 +57,8 @@ Dans la suite,
 * pour Mac et Linux, les commandes sont à faire dans un terminal classique. 
 * Pour Windows, il faut utiliser **Anaconda prompt** et pas un terminal de commande classique (taper "Anaconda Prompt" dans la barre de recherche Windows). 
 
+Pour tous les OS:
+
 1. Créer (et activer) un nouvel environnement, appelé `nnPyTorch` avec Python 3.6. 
 
 ```
