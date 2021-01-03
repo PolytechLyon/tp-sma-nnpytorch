@@ -82,7 +82,26 @@ conda install pytorch==1.6.0 -c pytorch
 pip install torchvision
 ```
 
-3. Installation des packages spécifiés dans le fichier *requirements.txt*.
+3. Installer le package permettant d'utiliser les commandes Linux dans Anaconda Prompt:
+```
+conda install m2-base
+```
+
+4. Git
+
+Dans la suite il est supposé que `git` est installé sur votre machine. Si ce n'est pas le cas, vous pouvez utiliser `conda`pour l'installer:
+```
+conda install git
+```
+
+5. Cloner le dépôt créé *via* githubclassroom (partie 1) et aller dans le dossier du dépôt:
+```
+git clone https://github.com/tpsma-nn-pytorch-nom1-nom2.git
+cd tpsma-nn-pytorch-nom1-nom2
+```
+
+
+6. Installation des packages spécifiés dans le fichier *requirements.txt*.
 ```
 pip install -r requirements.txt
 ```
@@ -92,24 +111,6 @@ conda list
 ```
 et installer d'autres packages dans votre environnement local si besoin.
 
-4. Installer le package permettant d'utiliser les commandes Linux dans Anaconda Prompt:
-```
-conda install m2-base
-```
-
-5. Git
-
-Dans la suite il est supposé que `git` est installé sur votre machine. Si ce n'est pas le cas, vous pouvez utiliser `conda`pour l'installer:
-```
-conda install git
-```
-
-
-6. Cloner le dépôt créé *via* githubclassroom (partie 1) et aller dans le dossier du dépôt:
-```
-git clone https://github.com/tpsma-nn-pytorch-nom1-nom2.git
-cd tpsma-nn-pytorch-nom1-nom2
-```
 
 
 
