@@ -2,8 +2,8 @@
 
 Vous trouverez dans ce dépôt :
 * Les slides du CM1
-* Les notebooks associés au CM
-* Le notebook à compléter pour ce TP
+* Les notebooks associés au CM: CM1-1DeepRL.ipynb et CM1-2DeepRL.ipynb
+* Le notebook à compléter pour ce TP: TP1/TP1-Tuto.ipynb
 
 ## 1. Récupération du projet sur GitHubClassroom
 
