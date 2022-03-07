@@ -25,10 +25,13 @@ for installing multiple versions of software packages and their dependencies and
 switching easily between them. It works on Linux, OS X and Windows, and was created 
 for Python programs but can package and distribute any software.
 
-Vous pouvez au choix installer [Anaconda](https://www.anaconda.com/products/individual), qui contient le gestionnaire de paquet Conda, plus les bibliothèques scientifiques, un environnement de développement … ou uniquement le gestionnaire de paquet Conda appelé [Miniconda](https://docs.conda.io/en/latest/miniconda.html). 
 
 
-### 2.1. Installation de miniconda
+### 2.1. Installation d'Anaconda ou de miniconda
+
+Vous pouvez au choix installer [Anaconda](https://www.anaconda.com/products/individual), qui contient le gestionnaire de paquet Conda, plus les bibliothèques scientifiques, un environnement de développement … ou uniquement le gestionnaire de paquet Conda appelé [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
+
+Pour Anaconda, suivez les consignes sur leur site. Pour Miniconda, suivez les consignes ci-dessous:
 
 > [Miniconda](https://docs.conda.io/en/latest/miniconda.html) is a free minimal installer for conda. 
 
